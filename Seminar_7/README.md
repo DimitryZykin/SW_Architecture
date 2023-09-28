@@ -3,7 +3,7 @@
 Выпустить диаграмму компонент в нотации ER по приложенной UML.
 
 UML
-! (Pic1)[https://github.com/DimitryZykin/SW_Architecture/blob/main/Seminar_7/UML_diagram.jpg] 
+![Pic1](https://github.com/DimitryZykin/SW_Architecture/blob/main/Seminar_7/UML_diagram.jpg])
 
 ER Диаграмма
 !(Pic2) 
