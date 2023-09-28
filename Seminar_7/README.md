@@ -6,4 +6,4 @@ UML
 ![Pic1](https://github.com/DimitryZykin/SW_Architecture/blob/main/Seminar_7/UML_diagram.jpg])
 
 ER Диаграмма
-!(Pic2) 
+![Pic2](https://github.com/DimitryZykin/SW_Architecture/blob/main/Seminar_7/Seminar_7_pic2.drawio.png)
