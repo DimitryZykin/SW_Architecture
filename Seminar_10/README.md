@@ -11,9 +11,9 @@ USE CASE диаграмма
 UML Диаграмма
 ![Pic1](https://github.com/DimitryZykin/SW_Architecture/blob/main/Seminar_10/pic/UML10.png)
 ERD Диаграмма
-![Pic1](https://github.com/DimitryZykin/SW_Architecture/blob/main/Seminar_10/pic/ERD.png)
+![Pic1](https://github.com/DimitryZykin/SW_Architecture/blob/main/Seminar_10/pic/ERD_diag.png)
 Интерфейс (desktop)
 Экран авторизации
-![Pic1](https://github.com/DimitryZykin/SW_Architecture/blob/main/Seminar_10/pic/UML.png)
+![Pic1](https://github.com/DimitryZykin/SW_Architecture/blob/main/Seminar_10/pic/Login_Screen.png)
 Основной экран (список чатов)
-![Pic1](https://github.com/DimitryZykin/SW_Architecture/blob/main/Seminar_10/pic/UML.png)
+![Pic1](https://github.com/DimitryZykin/SW_Architecture/blob/main/Seminar_10/pic/Message_screen.png)
