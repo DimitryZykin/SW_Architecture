@@ -9,9 +9,9 @@ USE CASE диаграмма
 Выбиираем MVC архитектуру, так как наш проект несложный и не планируется к дальнейшему развитию функционала. 
 
 UML Диаграмма
-![Pic1](https://github.com/DimitryZykin/SW_Architecture/blob/main/Seminar_10/pic/UML.png)
+![Pic1](https://github.com/DimitryZykin/SW_Architecture/blob/main/Seminar_10/pic/UML10.png)
 ERD Диаграмма
-![Pic1](https://github.com/DimitryZykin/SW_Architecture/blob/main/Seminar_10/pic/UML.png)
+![Pic1](https://github.com/DimitryZykin/SW_Architecture/blob/main/Seminar_10/pic/ERD.png)
 Интерфейс (desktop)
 Экран авторизации
 ![Pic1](https://github.com/DimitryZykin/SW_Architecture/blob/main/Seminar_10/pic/UML.png)
